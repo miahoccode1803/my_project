@@ -1,2 +1,6 @@
 Hii
+<<<<<<< HEAD
 hello world
+=======
+hello world
+>>>>>>> b695f74ac334c445dcc23f925a76c79044d2d581
